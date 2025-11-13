@@ -11,7 +11,9 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "install": "^0.13.0",
     "mysql2": "^3.15.3",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.11"
   }
 }
